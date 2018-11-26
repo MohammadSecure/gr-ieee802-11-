@@ -55,8 +55,8 @@ I have some non project specific GNU Radio blocks in my gr-foo repo that are nee
     sudo make install
     sudo ldconfig
     
-   #### Error in install gr-foo
-   for fix this error, you should change branch of Next to Master in gr-foo
+   ### Error in install gr-foo
+   for fix this error, you should change branch of "Next to Master" in gr-foo
 
 
 ## Installation of gr-ieee802-11
