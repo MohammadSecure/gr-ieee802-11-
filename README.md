@@ -54,6 +54,9 @@ I have some non project specific GNU Radio blocks in my gr-foo repo that are nee
     make
     sudo make install
     sudo ldconfig
+    
+   #### Error in install gr-foo
+   for fix this error, you should change branch of Next to Master in gr-foo
 
 
 ## Installation of gr-ieee802-11
@@ -194,3 +197,6 @@ In order to help you it is crucial that you provide enough information about wha
 
 For further information please checkout our project page
 [http://www.ccs-labs.org/projects/wime/](http://www.ccs-labs.org/projects/wime/)
+
+
+
